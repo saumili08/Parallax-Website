@@ -1,0 +1,248 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+
+.seasons {
+    background-image: url("seasons.jpg");
+    height: 695px;
+}
+
+.seasons-txt{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    word-spacing:15px;
+}
+
+.txt1 {
+    background-color: #eff1f3;
+    color: #043565;
+    border-radius: 10px;
+    height: 80px;
+    width: 100px;
+    padding: 20px;
+}
+
+
+
+.summer {
+    background-image: url("summer.jpg");
+    height: 400px;
+}
+
+.summer-txt{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    word-spacing:15px;
+}
+
+.txt2 {
+    background-color: #f9dc5c;
+    color: #370617e9;
+    border-radius: 10px;
+    height: 80px;
+    width: 100px;
+    padding: 20px;
+}
+
+
+.winter {
+    background-image: url("winter.jpg");
+    height: 400px;
+}
+
+.winter-txt{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    word-spacing:15px;
+}
+
+.txt3 {
+    background-color: #0d3b66;
+    color: #edf6f9;
+    border-radius: 10px;
+    height: 80px;
+    width: 100px;
+    padding: 20px;
+}
+
+
+
+.monsoon {
+    background-image: url("monsoon.jpg");
+    height: 400px;
+}
+
+.monsoon-txt{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    word-spacing:15px;
+}
+
+.txt4 {
+    background-color: #4f772d;
+    color: #cfe1b9;
+    border-radius: 10px;
+    height: 80px;
+    width: 100px;
+    padding: 20px;
+}
+
+
+.autumn {
+    background-image: url("autumn.jpg");
+    height: 400px;
+}
+
+.autumn-txt{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    word-spacing:15px;
+}
+
+.txt5 {
+    background-color: #590d22;
+    color: #f8edeb;
+    border-radius: 10px;
+    height: 80px;
+    width: 100px;
+    padding: 20px;
+}
+
+
+.all-seasons {
+    background-image: url("all-seasons.jpg");
+    height: 695px;
+}
+
+.all-seasons-txt{
+    position: absolute;
+    bottom: 30%;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    word-spacing:15px;
+}
+
+.txt6 {
+    background-color: #043565;
+    color: #eff1f3;
+    border-radius: 10px;
+    height: 80px;
+    width: 100px;
+    padding: 20px;
+}
+
+
+.seasons,
+.summer,
+.winter,
+.monsoon,
+.autumn,
+.all-seasons {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    background-attachment: fixed;
+}
+
+
+.para1 {
+    padding: 50px 80px;
+    background-color: #eff1f3;
+    color: #043565;
+    text-align: center;
+}
+
+.para1 p {
+    margin-top: 10px;
+    word-spacing: 5px;
+    line-height: 25px;
+}
+
+
+.para2 {
+    padding: 50px 80px;
+    background-color: #f9dc5c;
+    color: #370617e9;
+    text-align: center;
+}
+
+.para2 p {
+    margin-top: 10px;
+    word-spacing: 5px;
+    line-height: 25px;
+}
+
+
+.para3 {
+    padding: 50px 80px;
+    background-color: #0d3b66;
+    color: #edf6f9;
+    text-align: center;
+}
+
+.para3 p {
+    margin-top: 10px;
+    word-spacing: 5px;
+    line-height: 25px;
+}
+
+
+.para4 {
+    padding: 50px 80px;
+    background-color: #4f772d;
+    color: #cfe1b9;
+    text-align: center;
+}
+
+.para4 p {
+    margin-top: 10px;
+    word-spacing: 5px;
+    line-height: 25px;
+}
+
+
+
+.para5 {
+    padding: 50px 80px;
+    background-color: #590d22;
+    color: #f8edeb;
+    text-align: center;
+}
+
+.para5 p {
+    margin-top: 10px;
+    word-spacing: 5px;
+    line-height: 25px;
+}
